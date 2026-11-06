@@ -2,3 +2,8 @@ runs/
 __pycache__/
 *.pyc
 .venv/
+.controller-state/
+*.sqlite3
+AGENTS.md
+.agents/
+.codex/
